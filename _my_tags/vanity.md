@@ -1,0 +1,4 @@
+---
+slug: vanity
+name: vanity
+---

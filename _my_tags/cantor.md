@@ -1,0 +1,4 @@
+---
+slug: cantor
+name: cantor
+---
