@@ -1,0 +1,4 @@
+---
+slug: kuschel
+name: kuschel
+---
