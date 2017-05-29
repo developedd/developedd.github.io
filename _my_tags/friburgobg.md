@@ -1,0 +1,4 @@
+---
+slug: friburgobg
+name: friburgobg
+---
