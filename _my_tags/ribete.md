@@ -1,0 +1,4 @@
+---
+slug: ribete
+name: ribete
+---
