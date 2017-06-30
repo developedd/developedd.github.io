@@ -1,0 +1,4 @@
+---
+slug: madrigal
+name: madrigal
+---
